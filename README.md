@@ -3,7 +3,7 @@
 ## Visitors  <img src="https://komarev.com/ghpvc/?username=axcm19"/>
  <div>
   <a href="https://github.com/axcm19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axcm19&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axcm19&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axcm19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div> 
