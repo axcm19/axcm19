@@ -8,7 +8,7 @@ Technologies that I've used so far:
   <p></p>
  
   <!-- platforms tech -->
-  <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+  <a href="https://git-scm.com/"> <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" />
   <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
