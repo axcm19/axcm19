@@ -24,7 +24,7 @@ Technologies that I've used so far:
   <a href="https://www.mysql.com/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>   <!-- -------------------------------------------------------database tech------------------------------------------------------- -->
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F481157.png&f=1&nofb=1&ipt=e9b7edc3d52da088d8891d05f4302edf59b1a570271f9989b25f63581adf1312&ipo=images" /></a>
   <a href="https://www.gimp.org/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" /></a>   <!-- -------------------------------------------------------image tech------------------------------------------------------- -->
-  <a href="https://www.adobe.com/pt/products/photoshop/free-trial-download.html"><img height = 50 width = 50 src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img height = 50 width = 50 src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" /></a>
 
 
  <div>
