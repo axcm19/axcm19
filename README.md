@@ -15,6 +15,7 @@ Technologies that I've used so far:
   <a href="https://www.knime.com/"><img height = 50 width = 50 src="https://avatars3.githubusercontent.com/u/5486329?s=400&v=4" /></a>
   <a href="https://www.visual-paradigm.com/"><img height = 50 width = 50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVg77bb76FatdKxzH4bQxwZmmHF3pE5G6ng3NzLY1nqlH2vHxezDh2JKl8yTm94EWBrD0" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" /></a>
+  <a href="https://www.virtualbox.org/"><img height = 50 width = 50 src="https://www.thenekodark.com/wp-content/uploads/2017/06/virtualbox.png" /></a>
   <a href="https://www.java.com/en/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> <!-- -------------------------------------------------------coding tech------------------------------------------------------- -->
   <a href="https://www.python.org/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
