@@ -12,6 +12,8 @@ Technologies that I've used so far:
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" />
   <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img height = 50 width = 50 src="https://avatars3.githubusercontent.com/u/5486329?s=400&v=4" />
+  <img height = 50 width = 50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVg77bb76FatdKxzH4bQxwZmmHF3pE5G6ng3NzLY1nqlH2vHxezDh2JKl8yTm94EWBrD0" />
 
   <!-- coding tech -->
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -24,7 +26,7 @@ Technologies that I've used so far:
 
   <!-- database tech -->
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img height = 50 width = 50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F481157.png&f=1&nofb=1&ipt=e9b7edc3d52da088d8891d05f4302edf59b1a570271f9989b25f63581adf1312&ipo=images" />
 
   <!-- image tech -->
   <img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" />
