@@ -18,6 +18,7 @@ Technologies that I've used so far:
   <a href="https://www.virtualbox.org/"><img height = 50 width = 50 src="https://www.thenekodark.com/wp-content/uploads/2017/06/virtualbox.png" /></a>
   <a href="https://www.docker.com/why-docker/"><img height = 50 width = 50 src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
   <a href="https://kubernetes.io/"><img height = 50 width = 50 src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" /></a>
+  <a href="https://conda.org/"><img height = 50 width = 50 src="https://avatars.githubusercontent.com/u/6392739?s=200&v=4" /></a>
   <a href="https://www.java.com/en/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> <!-- -------------------------------------------------------coding tech------------------------------------------------------- -->
   <a href="https://www.python.org/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
