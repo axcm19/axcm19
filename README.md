@@ -28,6 +28,10 @@ Technologies that I've used so far:
   <a href="https://yaml.com/"><img height = 50 width = 50 src="https://upload.wikimedia.org/wikipedia/commons/6/63/YAML_logo_in_SVG_format.svg" /> </a>
   <a href="https://dotnet.microsoft.com/en-us/"><img height = 50 width = 50 src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" /></a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img height = 50 width = 50 src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" /></a>
+  <a href="https://p4.org/"><img height = 50 width = 50 src="https://p4.org/wp-content/uploads/2021/05/Group-81.png" /></a>
+  <a href="https://mininet.org/"><img height = 50 width = 50 src="https://www.linuxfoundation.jp/wp-content/uploads/2018/05/MININET.png" /></a>
+  <a href="https://www.eve-ng.net/"><img height = 50 width = 50 src="https://www.saashub.com/images/app/service_logos/51/08b8f63c3f51/large.png?1558766446" /></a>
+  <a href="https://uppaal.org/"><img height = 50 width = 50 src="https://avatars.githubusercontent.com/u/71254210?s=200&v=4" /></a>
   <a href="https://www.mysql.com/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>   <!-- -------------------------------------------------------database tech------------------------------------------------------- -->
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F481157.png&f=1&nofb=1&ipt=e9b7edc3d52da088d8891d05f4302edf59b1a570271f9989b25f63581adf1312&ipo=images" /></a>
   <a href="https://www.gimp.org/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" /></a>   <!-- -------------------------------------------------------image tech------------------------------------------------------- -->
