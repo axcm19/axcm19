@@ -2,7 +2,7 @@
 
 ## Visitors  <img src="https://komarev.com/ghpvc/?username=axcm19"/>
 
-<a href="www.linkedin.com/in/afonso-marques-b25687314" target="_blank">
+<a href="https://www.linkedin.com/in/afonso-marques-b25687314/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=1b91b5 alt=linkedin style="margin-bottom:15px;"/>
 </a>
 
