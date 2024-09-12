@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=1b91b5 alt=linkedin style="margin-bottom:15px;"/>
 </a>
 
-<a href="https://www.linkedin.com/in/afonso-marques-b25687314/" target="_blank">
+<a href="https://www.facebook.com/afonso.marques.5682" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=1877F2 alt=linkedin style="margin-bottom:15px;"/>
 </a>
 
