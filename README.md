@@ -6,6 +6,18 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=1b91b5 alt=linkedin style="margin-bottom:15px;"/>
 </a>
 
+<a href="https://www.linkedin.com/in/afonso-marques-b25687314/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=1877F2 alt=linkedin style="margin-bottom:15px;"/>
+</a>
+
+<a href="https://www.instagram.com/afonso_marques19/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=E4405F alt=linkedin style="margin-bottom:15px;"/>
+</a>
+
+<a href="https://open.spotify.com/user/21flekduzy2fyhoopc7ed2yay" target="_blank">
+<img src=https://img.shields.io/badge/spotify-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=1DB954 alt=linkedin style="margin-bottom:15px;"/>
+</a>
+
 
 <div>
 Technologies that I've used so far:
