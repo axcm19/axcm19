@@ -48,6 +48,7 @@ Technologies that I've used so far:
   <a href="https://mininet.org/"><img height = 50 width = 50 src="https://www.linuxfoundation.jp/wp-content/uploads/2018/05/MININET.png" /></a>
   <a href="https://www.eve-ng.net/"><img height = 50 width = 50 src="https://www.saashub.com/images/app/service_logos/51/08b8f63c3f51/large.png?1558766446" /></a>
   <a href="https://uppaal.org/"><img height = 50 width = 50 src="https://avatars.githubusercontent.com/u/71254210?s=200&v=4" /></a>
+  <a href="https://vuejs.org/"><img height = 50 width = 50 src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" /></a>
   <a href="https://www.mysql.com/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>   <!-- -------------------------------------------------------database tech------------------------------------------------------- -->
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F481157.png&f=1&nofb=1&ipt=e9b7edc3d52da088d8891d05f4302edf59b1a570271f9989b25f63581adf1312&ipo=images" /></a>
   <a href="https://www.gimp.org/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" /></a>   <!-- -------------------------------------------------------image tech------------------------------------------------------- -->
