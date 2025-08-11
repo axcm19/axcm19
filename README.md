@@ -31,7 +31,7 @@ Technologies that I've used so far:
   <a href="https://www.knime.com/"><img height = 50 width = 50 src="https://avatars3.githubusercontent.com/u/5486329?s=400&v=4" /></a>
   <a href="https://www.visual-paradigm.com/"><img height = 50 width = 50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVg77bb76FatdKxzH4bQxwZmmHF3pE5G6ng3NzLY1nqlH2vHxezDh2JKl8yTm94EWBrD0" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" /></a>
-  <a href="https://www.virtualbox.org/"><img height = 50 width = 50 src="https://www.thenekodark.com/wp-content/uploads/2017/06/virtualbox.png" /></a>
+  <a href="https://www.virtualbox.org/"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/ip3/www.virtualbox.org.ico" /></a>
   <a href="https://www.docker.com/why-docker/"><img height = 50 width = 50 src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
   <a href="https://kubernetes.io/"><img height = 50 width = 50 src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" /></a>
   <a href="https://conda.org/"><img height = 50 width = 50 src="https://avatars.githubusercontent.com/u/6392739?s=200&v=4" /></a>
