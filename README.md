@@ -28,8 +28,8 @@ Technologies that I've used so far:
   <a href="https://www.latex-project.org/about/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </a>
   <a href="https://www.vagrantup.com/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" /></a>
   <a href="https://jupyter.org/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-  <a href="https://www.knime.com/"><img height = 50 width = 50 src="https://avatars3.githubusercontent.com/u/5486329?s=400&v=4" /></a>
-  <a href="https://www.visual-paradigm.com/"><img height = 50 width = 50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVg77bb76FatdKxzH4bQxwZmmHF3pE5G6ng3NzLY1nqlH2vHxezDh2JKl8yTm94EWBrD0" /></a>
+  <a href="https://www.knime.com/"><img height = 50 width = 50 src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" /></a>
+  <a href="https://www.visual-paradigm.com/"><img height = 50 width = 50 src="https://cdn-images.visual-paradigm.com/features/vp-logo.png" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" /></a>
   <a href="https://www.virtualbox.org/"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/ip3/www.virtualbox.org.ico" /></a>
   <a href="https://www.docker.com/why-docker/"><img height = 50 width = 50 src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
@@ -48,12 +48,12 @@ Technologies that I've used so far:
   <a href="https://mininet.org/"><img height = 50 width = 50 src="https://www.linuxfoundation.jp/wp-content/uploads/2018/05/MININET.png" /></a>
   <a href="https://www.eve-ng.net/"><img height = 50 width = 50 src="https://www.saashub.com/images/app/service_logos/51/08b8f63c3f51/large.png?1558766446" /></a>
   <a href="https://uppaal.org/"><img height = 50 width = 50 src="https://avatars.githubusercontent.com/u/71254210?s=200&v=4" /></a>
-  <a href="https://vuejs.org/"><img height = 50 width = 50 src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" /></a>
+  <a href="https://vuejs.org/"><img height = 50 width = 50 src="https://spng.pngfind.com/pngs/s/150-1507248_image-library-stock-file-vue-js-logo-wikimedia.png" /></a>
   <a href="https://www.mysql.com/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>   <!-- -------------------------------------------------------database tech------------------------------------------------------- -->
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F481157.png&f=1&nofb=1&ipt=e9b7edc3d52da088d8891d05f4302edf59b1a570271f9989b25f63581adf1312&ipo=images" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height = 50 width = 50 src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-svg-vector.svg" /></a>
   <a href="https://www.gimp.org/"><img height = 50 width = 50 src="https://www.gimp.org/images/frontpage/wilber-big.png" /></a>   <!-- -------------------------------------------------------image tech------------------------------------------------------- -->
   <a href="https://www.adobe.com/products/photoshop.html"><img height = 50 width = 50 src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" /></a>
-  <a href="https://pencil.evolus.vn/"><img height = 50 width = 50 src="https://enemaneiras.com.br/wp-content/uploads/2017/07/logo-software-pencil-project.jpg" /></a>
+  <a href="https://pencil.evolus.vn/"><img height = 50 width = 50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.portableapps.com%2FPencilProjectPortable_128.png&f=1&nofb=1&ipt=f3bd2fdf198d5d6c89ec53293587eda11c9d80c8877934fdd2e761dca0368bdd" /></a>
 
 
  <div>
