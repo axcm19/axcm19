@@ -25,7 +25,7 @@ Technologies that I've used so far:
  
  
   <a href="https://git-scm.com/"><img height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" /></a>   <!-- -------------------------------------------------------platforms tech------------------------------------------------------- -->
-  <a href="https://www.latex-project.org/about/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </a>
+  <a href="https://www.latex-project.org/about/" target="_blank" rel="noopener noreferrer"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </a>
   <a href="https://www.vagrantup.com/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" /></a>
   <a href="https://jupyter.org/"><img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" /></a>
   <a href="https://www.knime.com/"><img height = 50 width = 50 src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" /></a>
