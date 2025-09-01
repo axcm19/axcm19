@@ -46,9 +46,9 @@ Technologies that I've used so far:
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img height = 50 width = 50 src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" /></a>
   <a href="https://p4.org/"><img height = 50 width = 50 src="https://p4.org/wp-content/uploads/2021/05/Group-81.png" /></a>
   <a href="https://mininet.org/"><img height = 50 width = 50 src="https://www.linuxfoundation.jp/wp-content/uploads/2018/05/MININET.png" /></a>
-  <a href="https://www.eve-ng.net/"><img height = 50 width = 50 src="https://www.saashub.com/images/app/service_logos/51/08b8f63c3f51/large.png?1558766446" /></a>
+  <a href="https://www.eve-ng.net/"><img height = 50 width = 50 src="https://github.com/axcm19/axcm19/blob/main/logo-eve.png?raw=true" /></a>
   <a href="https://uppaal.org/"><img height = 50 width = 50 src="https://avatars.githubusercontent.com/u/71254210?s=200&v=4" /></a>
-  <a href="https://vuejs.org/"><img height = 50 width = 50 src="https://spng.pngfind.com/pngs/s/150-1507248_image-library-stock-file-vue-js-logo-wikimedia.png" /></a>
+  <a href="https://vuejs.org/"><img height = 50 width = 50 src="https://github.com/axcm19/axcm19/blob/main/logo-vue.png?raw=true" /></a>
   <a href="https://www.mysql.com/"><img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>   <!-- -------------------------------------------------------database tech------------------------------------------------------- -->
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height = 50 width = 50 src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-svg-vector.svg" /></a>
   <a href="https://www.gimp.org/"><img height = 50 width = 50 src="https://www.gimp.org/images/frontpage/wilber-big.png" /></a>   <!-- -------------------------------------------------------image tech------------------------------------------------------- -->
