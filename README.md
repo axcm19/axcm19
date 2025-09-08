@@ -1,4 +1,11 @@
-### Hey 🤘🤘🤘🤘
+<h2>
+  <picture>
+    Hey
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f918/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f918/512.gif" alt="🤘" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f918/512.gif" alt="🤘" width="32" height="32">
+  </picture>
+</h2>
 
 ## Visitors  <img src="https://komarev.com/ghpvc/?username=axcm19"/>
 
@@ -66,7 +73,13 @@ Technologies that I've used so far:
   <div> 
 
 
-## 🎓 Bachelor's Projects
+<h2>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+  </picture>
+  Bachelor's Projects
+</h2>
 
 ### 1st Year
 
@@ -100,7 +113,13 @@ Technologies that I've used so far:
 <br>
 
 
-## 🎓 Master's Projects
+<h2>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+  </picture>
+  Master's Projects
+</h2>
 
 ### 1st Year
 
