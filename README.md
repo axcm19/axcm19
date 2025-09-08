@@ -65,6 +65,69 @@ Technologies that I've used so far:
 </div>
   <div> 
 
+
+## 🎓 Bachelor's Projects
+
+### 1st Year
+
+||||
+| --- | --- | :---: |
+| Laboratórios de Informática I | An Haskell-based version of the Block Dude game | [link](https://github.com/axcm19/LI1-2122) |
+| Laboratórios de Informática II | Command interpreter in C using a stack to manage execution | not available |
+
+### 2nd Year
+
+| Laboratórios de Informática III | CSV Manager in C with modular design and efficient data structures | [link](https://github.com/axcm19/LI3-2223) |
+| --- | --- | :---: |
+| Investigação Operacional | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
+| Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
+| Redes de Computadores | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
+| Sistemas Operativos | [Project](https://github.com/DuarteSerrao/SO2122) in C | 14 out of 20 |
+
+### 3rd Year
+
+| | | |
+| --- | --- | :---: |
+| Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
+| Laboratórios de Informática III | [Projects](https://github.com/Reinas2899/LI3Project) with both a C and Java version | 15 out of 20 |
+| Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) in MySQL | 16 out of 20 |
+| Sistemas Operativos | [Project](https://github.com/DuarteSerrao/SO2122) in C | 14 out of 20 |
+| Comunicações por Computador | [Project](https://github.com/Reinas2899/CC22-23) in Java | 13 out of 20 |
+| Desenvolvimento de Sistemas de Software | [Project](https://github.com/joaocasr/DSS22-23-GP1) in Java and UML | 18 out of 20 |
+| Laboratórios de Informática IV | [Project](https://github.com/Reinas2899/LI4Project) in JavaScript | 14 out of 20 |
+| Inteligência Artificial | [Project](https://github.com/Reinas2899/IA) in Prolog | 17 out of 20 |
+| Processamento de Linguagens | [Project](https://github.com/Reinas2899/PL-TOML-JSON) in Python | 19 out of 20 |
+| Computação Gráfica | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
+
+<br>
+
+
+## 🎓 Master's Projects
+
+### 1st Year
+| | | |
+| --- | --- | :---: |
+| Requisitos e Arquiteturs de Software | [Project](https://github.com/Reinas2899/RAS) in JavaScript | 14 out of 20 |
+| Computação Paralela | [Projects](https://github.com/Reinas2899/CParalela) in C with OpenMP and a CUDA version | 13 out of 20 |
+| Engenharia de Serviços em Redes| [Project](https://github.com/Reinas2899/ESR) in Python | 14 out of 20 |
+| Dados e Aprendizagem Automática | [Project](https://github.com/axcm19/DAA-2324) in Python | 14 out of 20 |
+| Aplicações e Serviços de Computação em Nuvem | [Project](https://github.com/Reinas2899/ASCN) with Ansible, deployment with Kubernetes on GCP | 18 out of 20 |
+
+### 2nd Year
+
+| | | |
+| --- | --- | :---: |
+| Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
+| Laboratórios de Informática III | [Projects](https://github.com/Reinas2899/LI3Project) with both a C and Java version | 15 out of 20 |
+| Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) in MySQL | 16 out of 20 |
+| Sistemas Operativos | [Project](https://github.com/DuarteSerrao/SO2122) in C | 14 out of 20 |
+| Comunicações por Computador | [Project](https://github.com/Reinas2899/CC22-23) in Java | 13 out of 20 |
+| Desenvolvimento de Sistemas de Software | [Project](https://github.com/joaocasr/DSS22-23-GP1) in Java and UML | 18 out of 20 |
+| Laboratórios de Informática IV | [Project](https://github.com/Reinas2899/LI4Project) in JavaScript | 14 out of 20 |
+| Inteligência Artificial | [Project](https://github.com/Reinas2899/IA) in Prolog | 17 out of 20 |
+| Processamento de Linguagens | [Project](https://github.com/Reinas2899/PL-TOML-JSON) in Python | 19 out of 20 |
+| Computação Gráfica | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
+
 <!--
 **axcm19/axcm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
