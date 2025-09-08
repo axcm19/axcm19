@@ -127,8 +127,8 @@ Technologies that I've used so far:
 
 ||||
 | --- | --- | :---: |
-| Startup Project |  | not available |
-| My Thesis |  | not available |
+| Startup Project | Offers a clothing rental service directly at the travel destination, eliminating the need to carry luggage | not available |
+| My Thesis | Use of Vector Databases in Customer Preference Similarity Processes | not available |
 
 <!--
 **axcm19/axcm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
