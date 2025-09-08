@@ -77,16 +77,17 @@ Technologies that I've used so far:
 
 ### 2nd Year
 
-| Laboratórios de Informática III | CSV Manager in C with modular design and efficient data structures | [link](https://github.com/axcm19/LI3-2223) |
+||||
 | --- | --- | :---: |
-| Investigação Operacional | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
-| Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
-| Redes de Computadores | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
-| Sistemas Operativos | [Project](https://github.com/DuarteSerrao/SO2122) in C | 14 out of 20 |
+| Laboratórios de Informática III | CSV Manager in C with modular design and efficient data structures | [link](https://github.com/axcm19/LI3-2223) |
+| Investigação Operacional | Drone route optimization in LPSolve | [link](https://github.com/axcm19/IO-2122) |
+| Programação Orientada aos Objetos | Marketplace system for buying and selling new or used items made with JAVA | [link](https://github.com/axcm19/POO-2223) |
+| Redes de Computadores | Several assignments using the CORE network emulator | not available |
+| Sistemas Operativos | Client-server system in C for monitoring running programs via named pipes | [link](https://github.com/axcm19/SO-2223) |
 
 ### 3rd Year
 
-| | | |
+||||
 | --- | --- | :---: |
 | Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
 | Laboratórios de Informática III | [Projects](https://github.com/Reinas2899/LI3Project) with both a C and Java version | 15 out of 20 |
@@ -104,8 +105,9 @@ Technologies that I've used so far:
 
 ## 🎓 Master's Projects
 
+
 ### 1st Year
-| | | |
+||||  
 | --- | --- | :---: |
 | Requisitos e Arquiteturs de Software | [Project](https://github.com/Reinas2899/RAS) in JavaScript | 14 out of 20 |
 | Computação Paralela | [Projects](https://github.com/Reinas2899/CParalela) in C with OpenMP and a CUDA version | 13 out of 20 |
@@ -115,7 +117,7 @@ Technologies that I've used so far:
 
 ### 2nd Year
 
-| | | |
+||||
 | --- | --- | :---: |
 | Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
 | Laboratórios de Informática III | [Projects](https://github.com/Reinas2899/LI3Project) with both a C and Java version | 15 out of 20 |
