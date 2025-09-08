@@ -70,38 +70,31 @@ Technologies that I've used so far:
 
 ### 1st Year
 
-||||
-| --- | --- | :---: |
-| Elementos Engenharia Sistemas | Airport simulation in Arena, covering flights, passengers, baggage, and logistics | [🔗](https://github.com/axcm19/EES-2021) |
-| Laboratórios de Informática I | An Haskell-based version of the Block Dude game | [🔗](https://github.com/axcm19/LI1-2122) |
-| Laboratórios de Informática II | Command interpreter in C using a stack to manage execution | [🔗](https://github.com/Maia-lm-21/EIPL2G07) |
+| [Elementos Engenharia Sistemas](https://github.com/axcm19/EES-2021) | Airport simulation in Arena, covering flights, passengers, baggage, and logistics |
+| :--- | :--- |
+| [Laboratórios de Informática I](https://github.com/axcm19/LI1-2122) | An Haskell-based version of the Block Dude game |
+| [Laboratórios de Informática II](https://github.com/Maia-lm-21/EIPL2G07) | Command interpreter in C using a stack to manage execution |
 
 ### 2nd Year
 
-||||
-| --- | --- | :---: |
-| Laboratórios de Informática III | CSV Manager in C with modular design and efficient data structures | [🔗](https://github.com/axcm19/LI3-2223) |
-| Investigação Operacional | Drone route optimization in LPSolve | [🔗](https://github.com/axcm19/IO-2122) |
-| Programação Orientada aos Objetos | Marketplace system for buying and selling new or used items made with Java | [🔗](https://github.com/axcm19/POO-2223) |
-| Sistemas Operativos | Client-server system in C for monitoring running programs via named pipes | [🔗](https://github.com/axcm19/SO-2223) |
+| [Laboratórios de Informática III](https://github.com/axcm19/LI3-2223) | CSV Manager in C with modular design and efficient data structures | 
+| :--- | :--- |
+| [Investigação Operacional](https://github.com/axcm19/IO-2122) | Drone route optimization in LPSolve |
+| [Programação Orientada aos Objetos](https://github.com/axcm19/POO-2223) | Marketplace system for buying and selling new or used items made with Java |
+| [Sistemas Operativos](https://github.com/axcm19/SO-2223) | Client-server system in C for monitoring running programs via named pipes |
 
 ### 3rd Year
 
-||||
-| --- | --- | :---: |
-| Análise de Projetos | Business plan for a clothing brand focused on agricultural workwear | [🔗](https://github.com/axcm19/AP-2223) |
-| Comunicações por Computador | Assignments on network communications: one experimental, one practical | [🔗](https://github.com/axcm19/CC-2324) |
-| Desenvolvimento Sistemas Software | A system that simulates motor racing championships with Java | [🔗](https://github.com/axcm19/DSS-2223) |
-| Inteligência Artificial | Develop search algorithms for a non-deterministic car racing game with Python | [🔗](https://github.com/axcm19/IA-2223) |
-| Laboratórios de Informática IV | Development of an online auction platform with .Net and C# | [🔗](https://github.com/axcm19/LI4-2324) |
-| Sistemas Distribuídos | Client-server system in Java for managing an electric scooter fleet | [🔗](https://github.com/axcm19/SD-2223) |
-| Aprendizagem e Decisão Inteligentes | Exploration and analysis of two datasets using KNIME | [🔗](https://github.com/axcm19/ADI-2223) |
-| Computação Gráfica | 3D engine made with C++, OpenGL and GLUT | [🔗](https://github.com/axcm19/CG-2223) |
-| Processamento de Linguagens | Python tool that converts a subset of TOML to JSON using Lex and Yacc | [🔗](https://github.com/axcm19/PL-2223) |
-
-
-
-
+| [Análise de Projetos (OPT)](https://github.com/axcm19/AP-2223) | Business plan for a clothing brand focused on agricultural workwear |
+| :--- | :--- |
+| [Comunicações por Computador](https://github.com/axcm19/CC-2324) | Assignments on network communications: one experimental, one practical |
+| [Desenvolvimento Sistemas Software](https://github.com/axcm19/DSS-2223) | A system that simulates motor racing championships with Java |
+| [Inteligência Artificial](https://github.com/axcm19/IA-2223) | Develop search algorithms for a non-deterministic car racing game with Python |
+| [Laboratórios de Informática IV](https://github.com/axcm19/LI4-2324) | Development of an online auction platform with .Net and C# | 
+| [Sistemas Distribuídos](https://github.com/axcm19/SD-2223) | Client-server system in Java for managing an electric scooter fleet |
+| [Aprendizagem e Decisão Inteligentes](https://github.com/axcm19/ADI-2223) | Exploration and analysis of two datasets using KNIME |
+| [Computação Gráfica](https://github.com/axcm19/CG-2223) | 3D engine made with C++, OpenGL and GLUT | 
+| [Processamento de Linguagens](https://github.com/axcm19/PL-2223) | Python tool that converts a subset of TOML to JSON using Lex and Yacc |
 
 
 <br>
@@ -109,26 +102,24 @@ Technologies that I've used so far:
 
 ## 🎓 Master's Projects
 
-
 ### 1st Year
-||||  
-| --- | --- | :---: |
-| Aplicações Serviços Computação Nuvem | Deployment of Laravel.io using YAML and Kubernetes| [🔗](https://github.com/axcm19/ASCN-2324) |
-| Computação Paralela | Code optimization project using C++ and CUDA | [🔗](https://github.com/axcm19/CP-2324) |
-| Dados e Aprendizagem Automática | Exploration and analysis of two datasets using CRISP-DM | [🔗](https://github.com/axcm19/DAA-2324) |
-| Engenharia de Serviços em Redes | Assignments on network services: one experimental, one practical | [🔗](https://github.com/axcm19/ESR-2425) |
-| Requisitos e Arquiteturas de Software | System that manages tests with automatic grading and room scheduling | [🔗](https://github.com/axcm19/RAS-2324) |
-| Redes Fixas e Móveis | Multiple assignments on network routing techniques | [🔗](https://github.com/axcm19/RFM-2324) |
-| Redes Definidas por Software | Program routers using P4 and Mininet| [🔗](https://github.com/axcm19/RDS-2324) |
-| Programação Ciber-Física | Uses UPPAAL and monads to solve a bridge and torch problem | [🔗](https://github.com/axcm19/PCF-2324) |
-| Novos Paradigmas de Rede | Smart traffic lights system using vehicular communications made with SUMO and Java | [🔗](https://github.com/axcm19/NPR-2324) |
+
+| [Aplicações Serviços Computação Nuvem](https://github.com/axcm19/ASCN-2324) | Deployment of Laravel.io using YAML and Kubernetes| 
+| :--- | :--- |
+| [Computação Paralela](https://github.com/axcm19/CP-2324) | Code optimization project using C++ and CUDA | 
+| [Dados e Aprendizagem Automática](https://github.com/axcm19/DAA-2324) | Exploration and analysis of two datasets using CRISP-DM | 
+| [Engenharia de Serviços em Redes](https://github.com/axcm19/ESR-2425) | Assignments on network services: one experimental, one practical | 
+| [Requisitos e Arquiteturas de Software](https://github.com/axcm19/RAS-2324) | System that manages tests with automatic grading and room scheduling |
+| [Redes Fixas e Móveis](https://github.com/axcm19/RFM-2324) | Multiple assignments on network routing techniques |
+| [Redes Definidas por Software](https://github.com/axcm19/RDS-2324) | Program routers using P4 and Mininet| 
+| [Programação Ciber-Física](https://github.com/axcm19/PCF-2324) | Uses UPPAAL and monads to solve a bridge and torch problem | 
+| [Novos Paradigmas de Rede](https://github.com/axcm19/NPR-2324) | Smart traffic lights system using vehicular communications made with SUMO and Java | 
 
 ### 2nd Year
 
-||||
-| --- | --- | :---: |
-| Startup Project | Clothing rental directly at the travel destination, eliminating the need to carry luggage | not available |
-| My Thesis | Use of Vector Databases in Customer Preference Similarity Processes | not available |
+| Group Project | Startup that offers clothing rental directly at the travel destination, eliminating the need to carry luggage |
+| :--- | :--- |
+| Thesis | Use of vector databases in customer preference similarity processes |
 
 <!--
 **axcm19/axcm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
