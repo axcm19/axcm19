@@ -86,7 +86,7 @@ Technologies that I've used so far:
 | [Elementos Engenharia Sistemas](https://github.com/axcm19/EES-2021) | Airport simulation in Arena, covering flights, passengers, baggage, and logistics |
 | :--- | :--- |
 | [Laboratórios de Informática I](https://github.com/axcm19/LI1-2122) | An Haskell-based version of the Block Dude game |
-| [Laboratórios de Informática II](https://github.com/Maia-lm-21/EIPL2G07) | Command interpreter in C using a stack to manage execution |
+| [Laboratórios de Informática II](https://github.com/axcm19/LI2-2021) | Command interpreter in C using a stack to manage execution |
 
 ### 2nd Year
 
