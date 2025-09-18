@@ -67,11 +67,11 @@ Technologies that I've used so far:
   My stats:
   <p></p>
   <a href="https://github.com/axcm19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axcm19&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axcm19&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://stats.programcx.cn/api?username=axcm19&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://stats.programcx.cn/api/top-langs/?username=axcm19&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
-  <div> 
 
+ 
 
 <h2>
   <picture>
