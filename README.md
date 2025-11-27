@@ -140,6 +140,25 @@ Technologies that I've used so far:
 | :--- | :--- |
 | Thesis | Use of vector databases in customer preference similarity processes |
 
+<br>
+
+
+<h2>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">
+  </picture>
+  Personal Projects
+</h2>
+
+| [SRT Generator](https://github.com/axcm19/SRT-Generator) | Uses whisper and ffmpeg to generate SRT files | 
+| :--- | :--- |
+| [Tutorial - Add SSH Key](https://github.com/axcm19/Tutorial-Add-Key-SSH) | I keep forgetting how to do it, so I made a tutorial | 
+
+
+
+
+
 <!--
 **axcm19/axcm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
