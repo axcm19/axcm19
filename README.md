@@ -138,7 +138,7 @@ Technologies that I've used so far:
 
 | Group Project | Startup that offers clothing rental directly at the travel destination, eliminating the need to carry luggage |
 | :--- | :--- |
-| Thesis | Use of vector databases in customer preference similarity processes |
+| [Thesis](https://github.com/axcm19/MY-THESIS) | Use of vector databases in customer preference similarity processes |
 
 <br>
 
