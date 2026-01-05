@@ -136,7 +136,7 @@ Technologies that I've used so far:
 
 ### 2nd Year
 
-| Group Project | Startup that offers clothing rental directly at the travel destination, eliminating the need to carry luggage |
+| [Group Project](https://github.com/axcm19/PackMyBag-my-fork) | Startup that offers clothing rental directly at the travel destination, eliminating the need to carry luggage |
 | :--- | :--- |
 | [Thesis](https://github.com/axcm19/MY-THESIS) | Use of vector databases in customer preference similarity processes |
 
